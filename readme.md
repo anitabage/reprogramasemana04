@@ -1,0 +1,1 @@
+resolução das questões sobre lógica aplicada no javascript, referente a semana 4 do curso de back-end do reprograma 
